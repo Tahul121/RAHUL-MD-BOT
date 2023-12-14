@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/naveeddogar"><img title="Author" src="https://img.shields.io/badge/𝑅𝛥𝛨𝑈𝐿_𝛭𝐷-𝛭𝑈𝐿𝑇𝛪_𝐷𝛯𝛻𝛪𝐶𝛯-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Tahul121"><img title="Author" src="https://img.shields.io/badge/𝑅𝛥𝛨𝑈𝐿_𝛭𝐷-𝛭𝑈𝐿𝑇𝛪_𝐷𝛯𝛻𝛪𝐶𝛯-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 
