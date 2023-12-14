@@ -25,9 +25,7 @@
    <p align="left">
   <a href="https://github.com/Tahul121/RAHUL-MD-BOT/fork">
     <img src="https://img.shields.io/github/forks/Tahul121/RAHUL-MD-BOT?label=Fork&style=social">
-  <p align="left"> 
-  <a href="https://github.com/Tahul121/RAHUL-MD-BOT/stargazers">
-    <img src="https://img.shields.io/github/stars/Tahul121RAHUL-MD-BOT?style=social">
+
       
   
  
