@@ -33,9 +33,9 @@
  
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{naveeddogar}/count.svg" alt="naveeddogar :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Tahul121}/count.svg" alt="naveeddogar :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43" target="_blank">
+ <a href="https://chat.whatsapp.com/C7PFcSRmRI9Enbda8Cikqu" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
