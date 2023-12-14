@@ -1,7 +1,7 @@
 {
-               "name": "KING-MD",
+               "name": "RAHUL-MD-BOT",
                "version": "1.0.1",
-               "description": "Multi device whatsapp bot by Naveed.",
+               "description": "Multi device whatsapp bot by Rahul Debnath.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -69,10 +69,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/naveeddogar/KING-MD.git"
+                 "url": "git+https://github.com/Tahul121/RAHUL-MD-BOT.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/naveeddogar/KING-MD/issues"
+                 "url": "https://github.com/Tahul121/RAHUL-MD-BOT/issues"
                   },
-                 "homepage": "https://github.com/naveeddogar/KING-MD#readme"
+                 "homepage": "https://github.com/Tahul121/RAHUL-MD-BOT#readme"
                   }
