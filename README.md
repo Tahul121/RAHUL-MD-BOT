@@ -7,6 +7,6 @@
 </h1>
 <p align="center"> 
   
-<p align="center"> A Whatsapp Bot Create By Naveed Dogar To Do Everything That Is Possible On WhatsApp
+<p align="center"> A Whatsapp Bot Create By Rahul Debnath To Do Everything That Is Possible On WhatsApp
  
   </a>
