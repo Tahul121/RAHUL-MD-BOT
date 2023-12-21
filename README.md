@@ -114,7 +114,7 @@
 ---
 
 
-<h2 align="center"> Star This Repo If You like KING-MD🌟
+<h2 align="center"> Star This Repo If You like RAHUL-MD-BOT🌟
 </h2>
 
 #### CREDIT BY 
