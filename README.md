@@ -117,12 +117,8 @@
 <h2 align="center"> Star This Repo If You like KING-MD🌟
 </h2>
 
-#### Thanks To 
+#### CREDIT BY 
 
-1: Suhail Bro
-
-2: Zubair Bro
-
-3: SamPandy Bro
+KING MD SIR
 
 #### NOTE: DON'T MODIFY THIS BOT AND DON'T POSSIBLE TO MODIFY 
