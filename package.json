@@ -1,13 +1,13 @@
 {
-               "name": "secktor-md",
-               "version": "0.0.7",
-               "description": "Multi device whatsapp bot by SamPandey001.",
+               "name": "RAHUL-MD-BOT",
+               "version": "1.0.1",
+               "description": "Multi device whatsapp bot by Rahul Debnath .",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name secktor",
-                "stop": "pm2 stop secktor"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name rahul",
+                "stop": "pm2 stop rahul"
                 },
                "author": "SamPandey001",
               "dependencies": {
@@ -68,10 +68,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/SamPandey001/Secktor-Md.git"
+                 "url": "git+https://github.com/Tahul121/RAHUL-MD-BOT.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/SamPandey001/Secktor-Md/issues"
+                 "url": "https://github.com/Tahul121/RAHUL-MD-BOT/issues"
                   },
-                 "homepage": "https://github.com/SamPandey001/Secktor-Md#readme"
+                 "homepage": "https://github.com/Tahul121/RAHUL-MD-BOT#readme"
                   }
