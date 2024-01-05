@@ -52,16 +52,26 @@
   "LEVEL_UP_MESSAGE": {
     "description": "Fill the value true if you want bot send Level up message in chat.",
      "required" :false,
-     "value": "true"
+     "value": "false"
+  },
+  "SUDO": {
+  "description": "PUT NUMBER For Sudo and without +",
+   "required"  :false
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
      "required" :false,
      "value": "true"
+      },
+      "BOT_NAME": {
+	      "description": "Choose your bot name",
+	      "required": "true",
+	      "value": "*RAHUL-MD-BOT*"
     },
    "DISABLE_PM": {
-    "description": "Disable bot in pm",
-     "required" :false
+     "description": "Disable bot in pm",
+    "value": "false",
+    "required" :false
     },
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
@@ -69,23 +79,23 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "919628516236"
+       "value": "919547261290"
   },
    "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
+    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to RAHUL-MD-BOT Github Repo U can find the Scanner Option"
   },
     "OPENAI_API_KEY": {
-    "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
-       "value": "Replace Me(optional)",
+    "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
+       "value": "ADD A OPEN AI KEY",
        "required" :false
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
+    "value": "mongodb+srv://rahul:rahul@cluster0.ywtlw3t.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "SECKTOR"
+    "description": "Don't Change . No Need To Change Only Avilable RAHUL-MD-BOT .",
+     "value": "RAHUL-MD-BOT"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -97,9 +107,8 @@
      "required": false 
   },
   "PACK_INFO": {
-    "description": "Put packname;authorname.",
-     "value": "SamPandey001;Secktor",
-     "required": false 
+    "description": "PUT STICKER AUTHOR NAME",
+     "value": "Ř　Å　H　Ü　 L　ツ",
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
@@ -112,5 +121,10 @@
 			"quantity": 1,
 			"size": "basic"
 		}
-	}
+	},
+"addons": [
+		{
+			"plan": "heroku-postgresql"
+		}
+	]
 }
