@@ -121,10 +121,5 @@
 			"quantity": 1,
 			"size": "basic"
 		}
-	},
-"addons": [
-		{
-			"plan": "heroku-postgresql"
-		}
-	]
+	}
 }
