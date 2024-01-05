@@ -4,9 +4,9 @@
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
  * @project_name : Secktor-Md
- * @author : @samapndey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
- * @version 0.0.6
+ * @author :Tahul121 <https://github.com/Tahul121>
+ * @description : RAHUL-MD-BOT,A Multi-functional whatsapp bot.
+ * @version 1.0.1
  **/
 
  const { cmd, parseJid,getAdmin,tlang } = require("../lib/");
