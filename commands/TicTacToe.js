@@ -3,7 +3,7 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md
+ * @project_name : RAHUL-MD-BOT
  * @author :Tahul121 <https://github.com/Tahul121>
  * @description : RAHUL-MD-BOT,A Multi-functional whatsapp bot.
  * @version 1.0.1
