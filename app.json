@@ -1,8 +1,8 @@
 {
   "name": "RAHUL-MD-BOT",
-  "description": "A Whatsapp md bot built in Rahul to make experience better",
+  "description": "A Whatsapp md bot built By Rahul to make experience better",
   "logo": "https://telegra.ph/file/ba7201b533cf2264f2237.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Rahul-Two", "RAHUL-MD", "RAHUL","rahul-bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
