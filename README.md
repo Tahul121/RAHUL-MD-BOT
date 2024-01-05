@@ -117,8 +117,9 @@
 <h2 align="center"> Star This Repo If You like RAHUL-MD-BOT🌟
 </h2>
 
-#### CREDIT BY 
+#### THANK YOU
 
-KING MD SIR
+
+
 
 #### NOTE: DON'T MODIFY THIS BOT AND DON'T POSSIBLE TO MODIFY 
