@@ -25,8 +25,8 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/SamPandey001/Secktor-Md
-      cd Secktor-Md
+      git clone https://github.com/Tahul121/RAHUL-MD-BOT
+      cd RAHUL-MD-BOT
       yarn install --network-concurrency 1
       ```
 
@@ -38,16 +38,16 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="911234567890"
-      MONGODB_URI="mongodb+srv://*************"
-      SESSION_ID = "secktorbot.herokuapp.com/session"
-      THUMB_IMAGE = "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png"
+      OWNER_NUMBER="919547261290"
+      MONGODB_URI="mongodb+srv://rahul:rahul@cluster0.ywtlw3t.mongodb.net/?retryWrites=true&w=majority"
+      SESSION_ID = "ID-here"
+      THUMB_IMAGE = "https://i.ibb.co/GkbRsdF/secktor-high-resolution-logo-black-on-white-background.png"
       port = 5000
-      email = "sam@secktor.live"
+      email = "rsstatus004@gmail.com"
       global_url = "instagram.com"
-      OWNER_NAME = "SamPandey001"
+      OWNER_NAME = "Rahul Debnath"
       AUTO_REACTION = false
-      FAKE_COUNTRY_CODE = 92
+      FAKE_COUNTRY_CODE = 212
       READ_MESSAGE = false
       PREFIX = .
       WARN_COUNT = 3
@@ -55,9 +55,9 @@
       ANTI_BAD_WORD = "fuck"
       LEVEL_UP_MESSAGE= true
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
-      THEME= SECKTOR
+      THEME= SECKTOR-2.0
       WORKTYPE = public
-      PACK_INFO = "Sam;Pandey"
+      PACK_INFO = "Ř　Å　H　Ü　 L　ツ"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
