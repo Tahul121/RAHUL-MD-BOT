@@ -1,6 +1,6 @@
-FROM quay.io/maherzubair/sigma-md:beta
-RUN git clone https://github.com/Maher-Zubair/SIGMA-MD /root/Maher-Zubair/SIGMA-MD
-WORKDIR /root/Maher-Zubair/SIGMA-MD/
+FROM quay.io/rahulmdbot2/rahulmdbot:beta
+RUN git clone https://github.com/Tahul121/RAHUL-MD-BOT /root/Maher-Zubair/RAHUL-MD-BOT
+WORKDIR /root/Tahul121/RAHUL-MD-BOT/
 RUN npm install npm@latest
 RUN npm install
 EXPOSE 8000
